@@ -1,0 +1,15 @@
+{
+    "date": "2025-07-18",
+    "Emray": {
+        "win": true,
+        "lose": false
+    },
+    "Billy": {
+        "win": false,
+        "lose": false
+    },
+    "Eza": {
+        "win": false,
+        "lose": false
+    }
+}
