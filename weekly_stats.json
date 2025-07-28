@@ -1,0 +1,17 @@
+{
+    "Emray": {
+        "win": 7,
+        "lose": 4,
+        "mc": 0
+    },
+    "Billy": {
+        "win": 1,
+        "lose": 2,
+        "mc": 0
+    },
+    "Eza": {
+        "win": 1,
+        "lose": 0,
+        "mc": 0
+    }
+}
